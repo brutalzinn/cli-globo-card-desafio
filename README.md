@@ -6,6 +6,10 @@ Esse projeto é um CLI desenvolvido em Python para ser utilizado em conjunto com
 
 - Python 3.x
 
+## Bibliotecas utilizadas:
+
+- Requests
+
 ## Primeiros passos
 1. Clone esse repositório em um local de fácil localização
 2. Acesse a pasta raíz do projeto clonado.
