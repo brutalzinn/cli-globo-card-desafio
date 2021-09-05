@@ -2,6 +2,9 @@
 
 Esse projeto é um CLI desenvolvido em Python para ser utilizado em conjunto com a Api GloboCard, e foi desenvolvido para o desafio Globo. Com objetivo de facilitar o processo de exportação de Cards esportivos(Insights) de um arquivo CSV para a API GloboCard. Sendo possível criar cards e suas respectivas tags em um único comando.
 
+Você pode acessar o repositório original do CLI GloboCard [clicando aqui](https://github.com/brutalzinn/cli-globo-card-desafio)
+
+
 ## Requerimentos:
 
 - Python 3.x
