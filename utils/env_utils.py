@@ -1,4 +1,4 @@
-def readEnv(key):
+def read_env(key):
     print("Lendo configurações do arquivo .env")
     with open(f'.env', newline='') as env:
         for l in env.readlines():
