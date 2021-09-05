@@ -22,7 +22,7 @@ Você pode acessar o repositório original do CLI GloboCard [clicando aqui](http
         #https://api-globo-card.herokuapp.com/
         API_URL=http://127.0.0.1:5000
 
-4. Crie um arquivo csv e insira as seguintes linhas:
+4. Crie um arquivo cards.csv e insira as seguintes linhas:
 
         text,tag
         Lorem ipsum dolor sit amet., Futebol
